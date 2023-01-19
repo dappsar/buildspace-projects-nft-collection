@@ -74,7 +74,7 @@ In a separate terminal execute:
 * [NFT Collection in opensea](https://testnets.opensea.io/assets?search[query]=0xc80edAF4e45d34eA1b1a64C7a957EB848d12aB33)
 * [NFT Collection in rarible](https://testnet.rarible.com/token/0xc80edAF4e45d34eA1b1a64C7a957EB848d12aB33:0)
 
-* [NFT earned after finishing project in buildspace.so](https://opensea.io/assets/matic/0x5c4E5ae2ADEAD056fD39badCe6A5A0e4ceBec3Ee/5)
+* [NFT earned after finishing project in buildspace.so](https://opensea.io/assets/matic/0x5c4E5ae2ADEAD056fD39badCe6A5A0e4ceBec3Ee/6)
 
 
 
